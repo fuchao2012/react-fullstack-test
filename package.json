@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "github",
-    "url": "http://github.com/fuchao2012/react-fullstack-test.git"
+    "url": "https://github.com/fuchao2012/react-fullstack-test.git"
   },
   "dependencies": {
     "babel-polyfill": "6.6.1",
